@@ -1,5 +1,5 @@
 #include <Funksjoner.h>
-
+// Ingve test
 // Definer antall LED-piksler
 #define Rod_Lys_Lag_1 26
 #define Rod_Lys_Lag_2 27
